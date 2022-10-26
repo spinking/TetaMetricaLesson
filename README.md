@@ -15,18 +15,22 @@ Firebase Analytics DebugView Screenshot, which shows user id changing, events(se
 
 ![Firebase Analytics DebugView Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_267.jpg?raw=true)
 
+
 Select item event before changing user id
 
 ![Firebase Analytics DebugView Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_268.jpg?raw=true)
+
 
 Select item event after changing user id
 
 ![Firebase Analytics DebugView Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_269.jpg?raw=true)
 
+
 Yandex Metrica events screenshots with filter by user id
 
 ![Yandex Metrica Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_270.jpg?raw=true)
 ![Yandex Metrica Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_271.jpg?raw=true)
+
 
 Yandex Metrica crashes screenshots with filter by user id
 
