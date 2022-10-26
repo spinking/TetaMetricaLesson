@@ -12,7 +12,7 @@ Jetpack Compose, Firebase Crashlytics, Firebase Analytics, Yandex Metica.
 ## Firebase Analytics
 
 Firebase Analytics DebugView Screenshot, which shows user id changing, events(select_item), exceptions(RuntimeException)
-!Firebase Analytics DebugView Screenshot(https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_267.jpg?raw=true)
+![Firebase Analytics DebugView Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_267.jpg?raw=true)
 
 Select item event before changing user id
 ![Firebase Analytics DebugView Screenshot](https://github.com/spinking/TetaMetricaLesson/blob/master/Screenshot_268.jpg?raw=true)
